@@ -1,2 +1,2 @@
 # Guess-My-Number
-project 2
+project 1
